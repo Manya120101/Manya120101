@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Manya120101
-- 👀 I’m interested in maching learning algorithms in the field of chemistry
+- 👀 I’m interested in MD simulations and maching learning algorithms in the field of chemistry
 - 🌱 I’m currently learning about computational methods
 - 📫 You can reach me at manyaagarwal790@gmail.com
 
